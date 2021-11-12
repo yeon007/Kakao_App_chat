@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "chatmsg" :"bye, see you soon"
+    },
+    {
+        "id": 2,
+        "img": "https://images.unsplash.com/flagged/photo-1577351285836-19ff13f8e615?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+        "chatmsg" :"Have a good day, bye"
+
+    },
+    {
+        "id": 3,
+        "img": "https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "chatmsg" :"Hello, good moning"
+    },
+    {
+        "id": 4,
+        "img": "https://images.unsplash.com/flagged/photo-1573156045143-854a5c96cf87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+        "chatmsg" :"Good bye! good night!"
+    },
+    {
+        "id": 5,
+        "img": "https://images.unsplash.com/photo-1566139884330-4786a15dff47?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=829&q=80",
+        "chatmsg" :"Hello, Nice a day"
+    },
+    {
+        "id": 6,
+        "img": "https://images.unsplash.com/photo-1584308972272-9e4e7685e80f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+        "chatmsg" :"Hello, This is a message!"
+    },
+    {
+        "id": 7,
+        "img": "https://images.unsplash.com/photo-1586287011575-a23134f797f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+        "chatmsg" :"Have a good day, bye"
+    },
+    {
+        "id": 8,
+        "img": "https://images.unsplash.com/photo-1583853275454-c8b542c291c0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+        "chatmsg" :"bye, see you soon"
+    },
+    {
+        "id": 9,
+        "img": "https://images.unsplash.com/photo-1583419160592-f3921655de1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=838&q=80",
+        "chatmsg" :"Good bye! good night!"
+    },
+    {
+        "id": 10,
+        "img": "https://images.unsplash.com/photo-1569007889977-42e2392850d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80",
+        "chatmsg" :"Have a good day, bye"
+    }
+]

@@ -1,0 +1,121 @@
+// Find.scss
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+body{
+    width: 100%;
+    height: 100%;
+    font-size: 12px;
+    .header{
+        position: fixed; 
+        left: 0;
+        top: 0;
+        width: 100%;
+        display: flex;
+        flex-direction: column; 
+        height: 64px;
+        color: #fff; 
+        padding: 0 15px;
+        box-sizing: border-box;
+        background: #513736;
+    }
+}
+
+.status_bar{
+    display: flex;
+    align-items: center; 
+    height: 37.5%;
+    width: 100%;
+    justify-content: space-between;
+    *{
+        padding: 3px;
+    }
+    div{
+        flex: 1;
+    }
+    .left_item{
+        text-align: left;
+    }
+    .center_item{
+        text-align: center;
+    }
+    .right_item{
+        text-align: right;
+    }
+}
+
+.title_bar{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    height: 62.5%;
+    *{
+        flex: 1;
+        font-size: 16px;
+    }
+    h1{
+        order: 2; 
+        text-align: center;
+    }
+    .left_item{
+        order: 1; 
+        text-align: left;
+        a{
+            color: #fff;
+            opacity: 0.5;
+        }
+    }
+}
+
+
+main{
+    height: 85.8%;
+    padding-top: 64px;
+    .find_method{
+        display: flex;
+        align-items: center;
+        height: 80px;
+        background: #eee;
+        li{
+            overflow: hidden; 
+            flex: 1;
+            a{
+                display: flex;
+                flex-direction: column;
+                align-items: center; 
+                color: #513736;
+                transition: transform 300ms linear 0s;
+                i{
+                    font-size: 22px;
+                    margin: 5px 0;
+                }
+            }:hover{
+                transform: scale(1.05);
+            }
+        }
+    }
+    .recommend_section{
+
+        header{
+            height: 22px;
+            line-height: 22px;
+            text-indent: 15px;
+            color: #8e9399;
+        }
+        ul{
+            li{
+                height: 54px;
+                line-height: 54px;
+                border-top: 1px solid #ebebeb;
+                border-bottom: 1px solid #ebebeb; 
+                text-align: center;
+                color: #8e9399;
+                font-size: 14px;
+            }
+        }
+    }
+}

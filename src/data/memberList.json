@@ -1,0 +1,91 @@
+[
+  {
+    "id": 0,
+    "name": "My name",
+    "profileimg": "https://images.unsplash.com/photo-1634922057403-59163697f3c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80",
+    "email": "Sincere@april.biz",
+    "chatmsg" :"Hello, This is a message!",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636495741575-3fea812148f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "profileimg": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "email": "Sincere@april.biz",
+    "chatmsg" :"bye, see you soon",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636374936044-f9460f03351a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+    
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "profileimg": "https://images.unsplash.com/flagged/photo-1577351285836-19ff13f8e615?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "email": "Shanna@melissa.tv",
+    "chatmsg" :"Have a good day, bye",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636495660102-f5765f16c2c4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "profileimg": "https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    "email": "Nathan@yesenia.net",
+    "chatmsg" :"Hello, good moning",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636520529078-79606dd73cde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "profileimg": "https://images.unsplash.com/flagged/photo-1573156045143-854a5c96cf87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "email": "Julianne.OConner@kory.org",
+    "chatmsg" :"Good bye! good night!",
+    "backgroundImg" :"https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "profileimg": "https://images.unsplash.com/photo-1566139884330-4786a15dff47?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=829&q=80",
+    "email": "Lucio_Hettinger@annie.ca",
+    "chatmsg" :"Hello, Nice a day",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636540096827-8a99cf0df433?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Dennis Schulist",
+    "profileimg": "https://images.unsplash.com/photo-1584308972272-9e4e7685e80f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "email": "Karley_Dach@jasper.info",
+    "chatmsg" :"Hello, This is a message!",
+    "backgroundImg" :"https://images.unsplash.com/photo-1504297050568-910d24c426d3?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "profileimg": "https://images.unsplash.com/photo-1586287011575-a23134f797f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "email": "Telly.Hoeger@billy.biz",
+    "chatmsg" :"Have a good day, bye",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636557899200-d1f4f2056eab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir",
+    "profileimg": "https://images.unsplash.com/photo-1583853275454-c8b542c291c0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "email": "Sherwood@rosamond.me",
+    "chatmsg" :"bye, see you soon",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636557194004-94c67de591ea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "profileimg": "https://images.unsplash.com/photo-1583419160592-f3921655de1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=838&q=80",
+    "email": "Chaim_McDermott@dana.io",
+    "chatmsg" :"Good bye! good night!",
+    "backgroundImg" :"https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "profileimg": "https://images.unsplash.com/photo-1569007889977-42e2392850d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80",
+    "email": "Rey.Padberg@karina.biz",
+    "chatmsg" :"Have a good day, bye",
+    "backgroundImg" :"https://images.unsplash.com/photo-1636495048997-3b1f514a26f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  }
+]

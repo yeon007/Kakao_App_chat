@@ -1,0 +1,38 @@
+// ChatList.scss
+.chats{
+    border-bottom: 1px solid #ebebeb;
+    .chant_content{
+        width: 100%;
+        display: flex; 
+        flex-wrap: wrap; 
+        font-size: 16px; 
+        align-items: center;
+        img{
+            width: 50px;
+            height: 50px; 
+            margin: 15px;
+            border-radius: 50%; 
+            background-size: cover;
+        }
+        .chats_info{
+            display: flex; 
+            flex: auto;
+            flex-direction: column; 
+            justify-content: center;
+            h3{
+                font-weight: bold;
+                margin-bottom: 5px;
+            }
+            span{
+                font-size: 12px;
+                color: #8e9399;
+            }
+            
+        }
+        .time{
+            margin-right: 15px;
+            font-size: 12px;
+            color: #8e9399;
+        }
+    }
+}
